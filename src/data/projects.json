@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": 1,
+    "title": "E-commerce Platform",
+    "description": "A full-stack e-commerce solution with a custom CMS and payment integration.",
+    "image": "https://picsum.photos/800/600?random=1",
+    "tags": ["Web Dev", "Design"],
+    "link": "#",
+    "aiHint": "online store"
+  },
+  {
+    "id": 2,
+    "title": "AI Chatbot Assistant",
+    "description": "An intelligent chatbot for customer service, powered by natural language processing.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "tags": ["AI", "Web Dev"],
+    "link": "#",
+    "aiHint": "robot conversation"
+  },
+  {
+    "id": 3,
+    "title": "Mobile Banking App",
+    "description": "A secure and intuitive mobile banking application with a focus on user experience.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "tags": ["Design"],
+    "link": "#",
+    "aiHint": "finance app"
+  },
+  {
+    "id": 4,
+    "title": "SaaS Analytics Dashboard",
+    "description": "A data visualization dashboard for a SaaS product, providing deep business insights.",
+    "image": "https://picsum.photos/800/600?random=4",
+    "tags": ["Web Dev", "Design"],
+    "link": "#",
+    "aiHint": "data dashboard"
+  },
+  {
+    "id": 5,
+    "title": "Generative Art Collection",
+    "description": "An exploration of creative AI, generating unique visual art based on user inputs.",
+    "image": "https://picsum.photos/800/600?random=5",
+    "tags": ["AI", "Design"],
+    "link": "#",
+    "aiHint": "abstract art"
+  },
+  {
+    "id": 6,
+    "title": "Portfolio Website",
+    "description": "A personal portfolio site to showcase projects and skills, just like this one!",
+    "image": "https://picsum.photos/800/600?random=6",
+    "tags": ["Web Dev"],
+    "link": "#",
+    "aiHint": "personal website"
+  }
+]
